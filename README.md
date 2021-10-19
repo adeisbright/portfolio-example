@@ -1,2 +1,2 @@
 # portfolio-example
-A simple portfolio template
+A simple portfolio template created with HTML and CSS
